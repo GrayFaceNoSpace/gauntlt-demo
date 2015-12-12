@@ -1,3 +1,7 @@
+UT CS 361 Fall 2015
+
+Team: GrayFaceNoSpace
+
 TEST vuln-32.attack
 
 This is a Gauntlt test to check if the vulnerability in WebGoat located at Web Services => WSDL Scanning (vuln-32) exists.
